@@ -47,8 +47,6 @@ THEN I am able to successfully create, update, and delete data in my database
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [Questions](#questions)
 
 ## Installation
 💾   
